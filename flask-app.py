@@ -46,7 +46,6 @@ def predict():
         # Make prediction
         prediction = model.predict(scaled_features)[0]
         probability = model.predict_proba(scaled_features)[0].tolist()
-        print(int(prediction))
         return jsonify({
             'prediction': int(prediction),
             'probability': probability

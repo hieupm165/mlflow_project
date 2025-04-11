@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/28fbf97170ba479ab8fb1d1069ebaf66/artifacts
+end_time: 1744371369731
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 28fbf97170ba479ab8fb1d1069ebaf66
+run_name: blushing-mare-695
+run_uuid: 28fbf97170ba479ab8fb1d1069ebaf66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371349220
+status: 3
+tags: []
+user_id: Admin

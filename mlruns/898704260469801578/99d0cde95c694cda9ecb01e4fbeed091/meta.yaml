@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/99d0cde95c694cda9ecb01e4fbeed091/artifacts
+end_time: 1744371969718
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 99d0cde95c694cda9ecb01e4fbeed091
+run_name: defiant-fly-885
+run_uuid: 99d0cde95c694cda9ecb01e4fbeed091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371947669
+status: 3
+tags: []
+user_id: Admin

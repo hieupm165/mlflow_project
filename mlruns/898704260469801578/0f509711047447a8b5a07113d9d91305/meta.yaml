@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/0f509711047447a8b5a07113d9d91305/artifacts
+end_time: 1744372228927
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 0f509711047447a8b5a07113d9d91305
+run_name: rebellious-hare-272
+run_uuid: 0f509711047447a8b5a07113d9d91305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372206254
+status: 3
+tags: []
+user_id: Admin

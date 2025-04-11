@@ -1,0 +1,74 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Classification Model</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                .container { max-width: 800px; margin: 0 auto; }
+                .result { margin-top: 20px; padding: 10px; border: 1px solid #ddd; }
+                button { padding: 10px; background: #4CAF50; color: white; border: none; cursor: pointer; }
+                input { padding: 8px; margin: 5px; }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h1>Classification Model Prediction</h1>
+                
+                <h2>Model Information</h2>
+                <button onclick="getModelInfo()">Get Model Info</button>
+                <div id="modelInfo" class="result"></div>
+                
+                <h2>Make a Prediction</h2>
+                <p>Enter feature values (comma-separated):</p>
+                <input type="text" id="features" placeholder="e.g., 0.1, 0.2, 0.3, ...">
+                <button onclick="predict()">Predict</button>
+                
+                <div id="prediction" class="result"></div>
+            </div>
+            
+            <script>
+                async function getModelInfo() {
+                    const response = await fetch('/model_info');
+                    const data = await response.json();
+                    
+                    const infoDiv = document.getElementById('modelInfo');
+                    infoDiv.innerHTML = '<h3>Run ID: ' + data.run_id + '</h3>';
+                    
+                    infoDiv.innerHTML += '<h4>Parameters:</h4><ul>';
+                    for (const [key, value] of Object.entries(data.parameters)) {
+                        infoDiv.innerHTML += '<li>' + key + ': ' + value + '</li>';
+                    }
+                    infoDiv.innerHTML += '</ul>';
+                    
+                    infoDiv.innerHTML += '<h4>Metrics:</h4><ul>';
+                    for (const [key, value] of Object.entries(data.metrics)) {
+                        infoDiv.innerHTML += '<li>' + key + ': ' + value.toFixed(4) + '</li>';
+                    }
+                    infoDiv.innerHTML += '</ul>';
+                }
+                
+                async function predict() {
+                    const featuresInput = document.getElementById('features').value;
+                    const features = featuresInput.split(',').map(x => parseFloat(x.trim()));
+                    
+                    const response = await fetch('/predict', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({features})
+                    });
+                    
+                    const data = await response.json();
+                    
+                    const predDiv = document.getElementById('prediction');
+                    predDiv.innerHTML = '<h3>Prediction: ' + data.prediction + '</h3>';
+                    predDiv.innerHTML += '<h4>Probability:</h4>';
+                    predDiv.innerHTML += '<p>Class 0: ' + (data.probability[0] * 100).toFixed(2) + '%</p>';
+                    predDiv.innerHTML += '<p>Class 1: ' + (data.probability[1] * 100).toFixed(2) + '%</p>';
+                }
+            </script>
+        </body>
+        </html>
+        

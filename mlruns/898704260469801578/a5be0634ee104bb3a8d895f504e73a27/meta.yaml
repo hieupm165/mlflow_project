@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/a5be0634ee104bb3a8d895f504e73a27/artifacts
+end_time: 1744372203765
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: a5be0634ee104bb3a8d895f504e73a27
+run_name: delicate-moth-345
+run_uuid: a5be0634ee104bb3a8d895f504e73a27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372181098
+status: 3
+tags: []
+user_id: Admin

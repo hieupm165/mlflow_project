@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/131244e8ebd54fdea59a4e9f507b1641/artifacts
+end_time: 1744372889597
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 131244e8ebd54fdea59a4e9f507b1641
+run_name: tasteful-boar-443
+run_uuid: 131244e8ebd54fdea59a4e9f507b1641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372865262
+status: 3
+tags: []
+user_id: Admin

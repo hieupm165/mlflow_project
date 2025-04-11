@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/d596d3bfdf7944dcb34b728883806984/artifacts
+end_time: 1744371837782
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: d596d3bfdf7944dcb34b728883806984
+run_name: gregarious-foal-531
+run_uuid: d596d3bfdf7944dcb34b728883806984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371821094
+status: 3
+tags: []
+user_id: Admin

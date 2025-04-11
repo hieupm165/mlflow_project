@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/d996cf21087f46288f10f6166b8614da/artifacts
+end_time: 1744371796892
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: d996cf21087f46288f10f6166b8614da
+run_name: useful-shrimp-10
+run_uuid: d996cf21087f46288f10f6166b8614da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371776276
+status: 3
+tags: []
+user_id: Admin

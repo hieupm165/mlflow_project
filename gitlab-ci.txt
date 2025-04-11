@@ -1,0 +1,28 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  image: docker:20.10.16
+  services:
+    - docker:20.10.16-dind
+  before_script:
+    - docker login -u $DOCKER_USERNAME -p $DOCKER_TOKEN
+  script:
+    - docker build -t $DOCKER_USERNAME/mse_ddm501:latest .
+    - docker push $DOCKER_USERNAME/mse_ddm501:latest
+  only:
+    - main
+
+deploy:
+  stage: deploy
+  image: docker:20.10.16
+  services:
+    - docker:20.10.16-dind
+  before_script:
+    - docker login -u $DOCKER_USERNAME -p $DOCKER_TOKEN
+  script:
+    - echo "Deploying to Docker Hub completed"
+  only:
+    - main

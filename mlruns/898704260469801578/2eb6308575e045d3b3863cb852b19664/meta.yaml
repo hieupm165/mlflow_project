@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/2eb6308575e045d3b3863cb852b19664/artifacts
+end_time: 1744372499442
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 2eb6308575e045d3b3863cb852b19664
+run_name: inquisitive-hawk-289
+run_uuid: 2eb6308575e045d3b3863cb852b19664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372476514
+status: 3
+tags: []
+user_id: Admin

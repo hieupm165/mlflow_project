@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/b4386525d5af479db1f362a849c4b210/artifacts
+end_time: 1744372597461
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: b4386525d5af479db1f362a849c4b210
+run_name: carefree-skink-307
+run_uuid: b4386525d5af479db1f362a849c4b210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372580276
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/165df44a48e04574b49e91d96a14d2ef/artifacts
+end_time: 1744372805000
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 165df44a48e04574b49e91d96a14d2ef
+run_name: skillful-dolphin-388
+run_uuid: 165df44a48e04574b49e91d96a14d2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372779637
+status: 3
+tags: []
+user_id: Admin

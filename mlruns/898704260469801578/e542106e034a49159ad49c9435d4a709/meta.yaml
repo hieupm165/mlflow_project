@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/e542106e034a49159ad49c9435d4a709/artifacts
+end_time: 1744372061018
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: e542106e034a49159ad49c9435d4a709
+run_name: enthused-snipe-453
+run_uuid: e542106e034a49159ad49c9435d4a709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372041142
+status: 3
+tags: []
+user_id: Admin

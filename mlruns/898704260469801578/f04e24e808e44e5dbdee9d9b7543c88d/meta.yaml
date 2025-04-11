@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/f04e24e808e44e5dbdee9d9b7543c88d/artifacts
+end_time: 1744372282755
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: f04e24e808e44e5dbdee9d9b7543c88d
+run_name: redolent-horse-682
+run_uuid: f04e24e808e44e5dbdee9d9b7543c88d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372257727
+status: 3
+tags: []
+user_id: Admin

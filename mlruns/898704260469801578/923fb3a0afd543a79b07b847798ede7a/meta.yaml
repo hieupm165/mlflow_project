@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/923fb3a0afd543a79b07b847798ede7a/artifacts
+end_time: 1744371922269
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 923fb3a0afd543a79b07b847798ede7a
+run_name: fun-bat-214
+run_uuid: 923fb3a0afd543a79b07b847798ede7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371902917
+status: 3
+tags: []
+user_id: Admin

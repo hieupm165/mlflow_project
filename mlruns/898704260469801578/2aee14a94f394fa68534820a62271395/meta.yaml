@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/2aee14a94f394fa68534820a62271395/artifacts
+end_time: 1744372621681
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 2aee14a94f394fa68534820a62271395
+run_name: rumbling-stag-517
+run_uuid: 2aee14a94f394fa68534820a62271395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372600588
+status: 3
+tags: []
+user_id: Admin

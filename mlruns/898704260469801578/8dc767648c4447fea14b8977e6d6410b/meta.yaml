@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/8dc767648c4447fea14b8977e6d6410b/artifacts
+end_time: 1744371430736
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 8dc767648c4447fea14b8977e6d6410b
+run_name: spiffy-lamb-262
+run_uuid: 8dc767648c4447fea14b8977e6d6410b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371410261
+status: 3
+tags: []
+user_id: Admin

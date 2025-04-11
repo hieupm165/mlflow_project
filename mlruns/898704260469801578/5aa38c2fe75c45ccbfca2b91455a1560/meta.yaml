@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/5aa38c2fe75c45ccbfca2b91455a1560/artifacts
+end_time: 1744372018229
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 5aa38c2fe75c45ccbfca2b91455a1560
+run_name: bittersweet-newt-421
+run_uuid: 5aa38c2fe75c45ccbfca2b91455a1560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371996877
+status: 3
+tags: []
+user_id: Admin

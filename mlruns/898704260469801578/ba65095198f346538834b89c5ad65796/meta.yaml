@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/ba65095198f346538834b89c5ad65796/artifacts
+end_time: 1744372376324
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: ba65095198f346538834b89c5ad65796
+run_name: bouncy-lark-173
+run_uuid: ba65095198f346538834b89c5ad65796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372358355
+status: 3
+tags: []
+user_id: Admin

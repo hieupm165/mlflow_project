@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/437e5ce9058b4bc789b1b7d33c9455da/artifacts
+end_time: 1744372473380
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 437e5ce9058b4bc789b1b7d33c9455da
+run_name: monumental-cow-909
+run_uuid: 437e5ce9058b4bc789b1b7d33c9455da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372452220
+status: 3
+tags: []
+user_id: Admin

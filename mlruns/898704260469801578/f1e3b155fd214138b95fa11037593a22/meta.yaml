@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/f1e3b155fd214138b95fa11037593a22/artifacts
+end_time: 1744371943333
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: f1e3b155fd214138b95fa11037593a22
+run_name: welcoming-grub-987
+run_uuid: f1e3b155fd214138b95fa11037593a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371923977
+status: 3
+tags: []
+user_id: Admin

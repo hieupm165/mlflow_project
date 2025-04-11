@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/e5191f2173b740de808b9b10fb39be56/artifacts
+end_time: 1744372830889
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: e5191f2173b740de808b9b10fb39be56
+run_name: incongruous-fawn-12
+run_uuid: e5191f2173b740de808b9b10fb39be56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372808790
+status: 3
+tags: []
+user_id: Admin

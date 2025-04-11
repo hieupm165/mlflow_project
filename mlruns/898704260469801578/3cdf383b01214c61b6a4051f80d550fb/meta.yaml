@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/3cdf383b01214c61b6a4051f80d550fb/artifacts
+end_time: 1744372395941
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 3cdf383b01214c61b6a4051f80d550fb
+run_name: welcoming-ram-471
+run_uuid: 3cdf383b01214c61b6a4051f80d550fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372378793
+status: 3
+tags: []
+user_id: Admin

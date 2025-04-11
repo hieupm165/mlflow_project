@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/5de7bfca4e7c444fb8b5cbd1b4a5620e/artifacts
+end_time: 1744372130507
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 5de7bfca4e7c444fb8b5cbd1b4a5620e
+run_name: bright-conch-462
+run_uuid: 5de7bfca4e7c444fb8b5cbd1b4a5620e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372109739
+status: 3
+tags: []
+user_id: Admin

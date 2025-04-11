@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/52914f4ac3c64017a6e60a2f7c4d1cbb/artifacts
+end_time: 1744371407798
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 52914f4ac3c64017a6e60a2f7c4d1cbb
+run_name: bald-grouse-798
+run_uuid: 52914f4ac3c64017a6e60a2f7c4d1cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371388328
+status: 3
+tags: []
+user_id: Admin

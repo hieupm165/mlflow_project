@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/866fad219d914da5bf49e57fa2f4d79a/artifacts
+end_time: 1744371229923
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 866fad219d914da5bf49e57fa2f4d79a
+run_name: auspicious-hare-436
+run_uuid: 866fad219d914da5bf49e57fa2f4d79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371207808
+status: 3
+tags: []
+user_id: Admin

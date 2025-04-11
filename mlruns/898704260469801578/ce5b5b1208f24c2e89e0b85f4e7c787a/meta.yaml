@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/ce5b5b1208f24c2e89e0b85f4e7c787a/artifacts
+end_time: 1744371206349
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: ce5b5b1208f24c2e89e0b85f4e7c787a
+run_name: intrigued-stork-193
+run_uuid: ce5b5b1208f24c2e89e0b85f4e7c787a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371169496
+status: 3
+tags: []
+user_id: Admin

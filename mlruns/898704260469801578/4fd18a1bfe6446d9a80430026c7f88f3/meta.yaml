@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/4fd18a1bfe6446d9a80430026c7f88f3/artifacts
+end_time: 1744371871753
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 4fd18a1bfe6446d9a80430026c7f88f3
+run_name: bemused-mare-541
+run_uuid: 4fd18a1bfe6446d9a80430026c7f88f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371856505
+status: 3
+tags: []
+user_id: Admin

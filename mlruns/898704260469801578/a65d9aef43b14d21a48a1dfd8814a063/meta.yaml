@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/a65d9aef43b14d21a48a1dfd8814a063/artifacts
+end_time: 1744371751819
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: a65d9aef43b14d21a48a1dfd8814a063
+run_name: thundering-loon-812
+run_uuid: a65d9aef43b14d21a48a1dfd8814a063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371729697
+status: 3
+tags: []
+user_id: Admin

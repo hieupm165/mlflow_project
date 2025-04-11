@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/10948b386a8f4f718ff86ece81648178/artifacts
+end_time: 1744372858426
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 10948b386a8f4f718ff86ece81648178
+run_name: puzzled-kite-419
+run_uuid: 10948b386a8f4f718ff86ece81648178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372836990
+status: 3
+tags: []
+user_id: Admin

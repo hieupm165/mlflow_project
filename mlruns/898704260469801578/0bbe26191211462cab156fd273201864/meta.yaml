@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/0bbe26191211462cab156fd273201864/artifacts
+end_time: 1744372648304
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 0bbe26191211462cab156fd273201864
+run_name: amusing-moth-623
+run_uuid: 0bbe26191211462cab156fd273201864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372628575
+status: 3
+tags: []
+user_id: Admin

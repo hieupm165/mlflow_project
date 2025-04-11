@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/fedb6c93f4354f7480bd3ecb57271da2/artifacts
+end_time: 1744371854258
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: fedb6c93f4354f7480bd3ecb57271da2
+run_name: painted-dolphin-824
+run_uuid: fedb6c93f4354f7480bd3ecb57271da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371838915
+status: 3
+tags: []
+user_id: Admin

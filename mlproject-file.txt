@@ -1,0 +1,10 @@
+name: classification-project
+
+conda_env: conda.yaml
+
+entry_points:
+  train:
+    command: "python train.py"
+    
+  serve:
+    command: "python app.py"

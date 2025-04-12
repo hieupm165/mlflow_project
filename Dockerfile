@@ -1,6 +1,6 @@
 FROM python:3.9-slim
 
-WORKDIR /app
+WORKDIR /MLFLOW_PROJECT
 
 # Install required packages
 COPY requirements.txt .
@@ -13,4 +13,4 @@ COPY . .
 EXPOSE 5000
 
 # Run the Flask application
-CMD ["python", "app.py"]
+CMD ["python", "flask-app.py"]

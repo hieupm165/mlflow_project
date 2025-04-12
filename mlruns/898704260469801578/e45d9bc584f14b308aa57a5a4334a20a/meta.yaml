@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/e45d9bc584f14b308aa57a5a4334a20a/artifacts
+end_time: 1744429218119
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: e45d9bc584f14b308aa57a5a4334a20a
+run_name: skittish-sow-86
+run_uuid: e45d9bc584f14b308aa57a5a4334a20a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429215688
+status: 3
+tags: []
+user_id: ADMIN

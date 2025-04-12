@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/b1d55e5aaaff4a45b1cd3537c0687603/artifacts
+end_time: 1744429193091
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: b1d55e5aaaff4a45b1cd3537c0687603
+run_name: useful-mole-810
+run_uuid: b1d55e5aaaff4a45b1cd3537c0687603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429190709
+status: 3
+tags: []
+user_id: ADMIN

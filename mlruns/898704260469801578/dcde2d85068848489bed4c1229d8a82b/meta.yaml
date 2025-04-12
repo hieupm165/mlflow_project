@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/dcde2d85068848489bed4c1229d8a82b/artifacts
+end_time: 1744429245849
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: dcde2d85068848489bed4c1229d8a82b
+run_name: intelligent-colt-188
+run_uuid: dcde2d85068848489bed4c1229d8a82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429243471
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/a55940ad6dc742f1bfaedc6c7f6f3c51/artifacts
+end_time: 1744429190495
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: a55940ad6dc742f1bfaedc6c7f6f3c51
+run_name: brawny-grouse-287
+run_uuid: a55940ad6dc742f1bfaedc6c7f6f3c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429188162
+status: 3
+tags: []
+user_id: ADMIN

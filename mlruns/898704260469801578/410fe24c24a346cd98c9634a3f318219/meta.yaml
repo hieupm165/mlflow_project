@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/410fe24c24a346cd98c9634a3f318219/artifacts
+end_time: 1744429322189
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 410fe24c24a346cd98c9634a3f318219
+run_name: whimsical-doe-276
+run_uuid: 410fe24c24a346cd98c9634a3f318219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429319801
+status: 3
+tags: []
+user_id: ADMIN

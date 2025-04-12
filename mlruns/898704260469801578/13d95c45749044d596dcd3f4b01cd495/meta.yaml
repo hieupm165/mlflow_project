@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/13d95c45749044d596dcd3f4b01cd495/artifacts
+end_time: 1744429294468
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 13d95c45749044d596dcd3f4b01cd495
+run_name: gaudy-fowl-513
+run_uuid: 13d95c45749044d596dcd3f4b01cd495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429292038
+status: 3
+tags: []
+user_id: ADMIN

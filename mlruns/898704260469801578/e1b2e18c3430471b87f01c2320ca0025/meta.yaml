@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/e1b2e18c3430471b87f01c2320ca0025/artifacts
+end_time: 1744429240193
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: e1b2e18c3430471b87f01c2320ca0025
+run_name: efficient-elk-370
+run_uuid: e1b2e18c3430471b87f01c2320ca0025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429237797
+status: 3
+tags: []
+user_id: ADMIN

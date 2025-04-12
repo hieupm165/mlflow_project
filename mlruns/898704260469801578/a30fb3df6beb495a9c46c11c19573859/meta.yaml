@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/a30fb3df6beb495a9c46c11c19573859/artifacts
+end_time: 1744429275831
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: a30fb3df6beb495a9c46c11c19573859
+run_name: bouncy-snail-618
+run_uuid: a30fb3df6beb495a9c46c11c19573859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429273457
+status: 3
+tags: []
+user_id: ADMIN

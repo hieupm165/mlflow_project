@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/5fcae63ce55b4b57ae7622c29ce34f03/artifacts
+end_time: 1744429174320
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 5fcae63ce55b4b57ae7622c29ce34f03
+run_name: unleashed-duck-769
+run_uuid: 5fcae63ce55b4b57ae7622c29ce34f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429171939
+status: 3
+tags: []
+user_id: ADMIN

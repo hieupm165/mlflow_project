@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/57e46559d80a4fc89c4d75edc445fb47/artifacts
+end_time: 1744429281929
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 57e46559d80a4fc89c4d75edc445fb47
+run_name: salty-eel-582
+run_uuid: 57e46559d80a4fc89c4d75edc445fb47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429279535
+status: 3
+tags: []
+user_id: ADMIN

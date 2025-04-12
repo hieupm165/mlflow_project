@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/0dbb02d8a3d941fb978aecbc701584f2/artifacts
+end_time: 1744429204027
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 0dbb02d8a3d941fb978aecbc701584f2
+run_name: gifted-lark-318
+run_uuid: 0dbb02d8a3d941fb978aecbc701584f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429201637
+status: 3
+tags: []
+user_id: ADMIN

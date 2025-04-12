@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/dc8961c0b599416cb654f9917167cda2/artifacts
+end_time: 1744429306870
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: dc8961c0b599416cb654f9917167cda2
+run_name: amusing-goat-713
+run_uuid: dc8961c0b599416cb654f9917167cda2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429304531
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/83aa8a935ad74877b651118e37abc3fe/artifacts
+end_time: 1744429226248
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 83aa8a935ad74877b651118e37abc3fe
+run_name: loud-shad-454
+run_uuid: 83aa8a935ad74877b651118e37abc3fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429223904
+status: 3
+tags: []
+user_id: ADMIN

@@ -16,9 +16,8 @@ def load_best_model():
         
         print(f"Loading model from run: {best_run_id}")
         
-        # Load model from MLflow
-        model = mlflow.sklearn.load_model(f"runs:/{best_run_id}/model")
-        
+        # Load model directly from file
+        model = joblib.load("best_model.pkl")
         # Load scaler
         scaler = joblib.load("scaler.pkl")
         

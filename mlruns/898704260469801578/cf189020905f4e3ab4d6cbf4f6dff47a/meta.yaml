@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/cf189020905f4e3ab4d6cbf4f6dff47a/artifacts
+end_time: 1744429272710
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: cf189020905f4e3ab4d6cbf4f6dff47a
+run_name: brawny-midge-375
+run_uuid: cf189020905f4e3ab4d6cbf4f6dff47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429270163
+status: 3
+tags: []
+user_id: ADMIN

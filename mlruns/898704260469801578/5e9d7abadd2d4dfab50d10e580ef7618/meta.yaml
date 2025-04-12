@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/5e9d7abadd2d4dfab50d10e580ef7618/artifacts
+end_time: 1744429206889
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 5e9d7abadd2d4dfab50d10e580ef7618
+run_name: casual-stork-91
+run_uuid: 5e9d7abadd2d4dfab50d10e580ef7618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429204496
+status: 3
+tags: []
+user_id: ADMIN

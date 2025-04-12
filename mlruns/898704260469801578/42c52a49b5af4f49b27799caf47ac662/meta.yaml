@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/42c52a49b5af4f49b27799caf47ac662/artifacts
+end_time: 1744429182340
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 42c52a49b5af4f49b27799caf47ac662
+run_name: persistent-robin-884
+run_uuid: 42c52a49b5af4f49b27799caf47ac662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429179936
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/224dde4de8f34b25abbe5f17df598d8f/artifacts
+end_time: 1744429279071
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 224dde4de8f34b25abbe5f17df598d8f
+run_name: clean-ox-874
+run_uuid: 224dde4de8f34b25abbe5f17df598d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429276595
+status: 3
+tags: []
+user_id: ADMIN

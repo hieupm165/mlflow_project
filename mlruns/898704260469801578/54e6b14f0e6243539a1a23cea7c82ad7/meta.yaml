@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/54e6b14f0e6243539a1a23cea7c82ad7/artifacts
+end_time: 1744429309796
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 54e6b14f0e6243539a1a23cea7c82ad7
+run_name: vaunted-hog-983
+run_uuid: 54e6b14f0e6243539a1a23cea7c82ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429307355
+status: 3
+tags: []
+user_id: ADMIN

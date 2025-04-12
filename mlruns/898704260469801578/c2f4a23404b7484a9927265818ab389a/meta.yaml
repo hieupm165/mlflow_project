@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/c2f4a23404b7484a9927265818ab389a/artifacts
+end_time: 1744429185101
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: c2f4a23404b7484a9927265818ab389a
+run_name: flawless-lark-859
+run_uuid: c2f4a23404b7484a9927265818ab389a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429182731
+status: 3
+tags: []
+user_id: ADMIN

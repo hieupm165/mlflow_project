@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/3549ddd0327d4a849e4e9a76656a8fdd/artifacts
+end_time: 1744429260646
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 3549ddd0327d4a849e4e9a76656a8fdd
+run_name: adorable-boar-978
+run_uuid: 3549ddd0327d4a849e4e9a76656a8fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429258255
+status: 3
+tags: []
+user_id: ADMIN

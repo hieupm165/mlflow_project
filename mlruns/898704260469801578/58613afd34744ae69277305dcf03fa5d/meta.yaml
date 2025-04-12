@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/58613afd34744ae69277305dcf03fa5d/artifacts
+end_time: 1744429177147
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 58613afd34744ae69277305dcf03fa5d
+run_name: luminous-horse-918
+run_uuid: 58613afd34744ae69277305dcf03fa5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429174747
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/2d7d7b7ad98a465d92edd28a6555cbb4/artifacts
+end_time: 1744429212565
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 2d7d7b7ad98a465d92edd28a6555cbb4
+run_name: bustling-trout-6
+run_uuid: 2d7d7b7ad98a465d92edd28a6555cbb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429209999
+status: 3
+tags: []
+user_id: ADMIN

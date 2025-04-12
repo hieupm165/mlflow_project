@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/c7254c51f24741d88c2f367f1209cd8a/artifacts
+end_time: 1744429255053
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: c7254c51f24741d88c2f367f1209cd8a
+run_name: sedate-fowl-564
+run_uuid: c7254c51f24741d88c2f367f1209cd8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429252665
+status: 3
+tags: []
+user_id: ADMIN

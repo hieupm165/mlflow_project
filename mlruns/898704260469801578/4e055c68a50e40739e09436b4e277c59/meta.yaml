@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/4e055c68a50e40739e09436b4e277c59/artifacts
+end_time: 1744429288211
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 4e055c68a50e40739e09436b4e277c59
+run_name: delicate-skunk-287
+run_uuid: 4e055c68a50e40739e09436b4e277c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429285800
+status: 3
+tags: []
+user_id: ADMIN

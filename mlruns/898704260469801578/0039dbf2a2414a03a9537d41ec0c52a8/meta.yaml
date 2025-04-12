@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/0039dbf2a2414a03a9537d41ec0c52a8/artifacts
+end_time: 1744429316472
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 0039dbf2a2414a03a9537d41ec0c52a8
+run_name: redolent-fox-550
+run_uuid: 0039dbf2a2414a03a9537d41ec0c52a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429314068
+status: 3
+tags: []
+user_id: ADMIN

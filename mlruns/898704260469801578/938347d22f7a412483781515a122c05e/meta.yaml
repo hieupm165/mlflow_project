@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/938347d22f7a412483781515a122c05e/artifacts
+end_time: 1744429229163
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 938347d22f7a412483781515a122c05e
+run_name: receptive-ant-539
+run_uuid: 938347d22f7a412483781515a122c05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429226735
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/c4cfc34cc9cc424fa349e1c969dee037/artifacts
+end_time: 1744429300653
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: c4cfc34cc9cc424fa349e1c969dee037
+run_name: gentle-frog-306
+run_uuid: c4cfc34cc9cc424fa349e1c969dee037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429298252
+status: 3
+tags: []
+user_id: ADMIN

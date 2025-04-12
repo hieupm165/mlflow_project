@@ -158,3 +158,8 @@ if __name__ == "__main__":
     # Save best run ID to a file for the web app to use
     with open("best_run_id.txt", "w") as f:
         f.write(best_run_id)
+
+# In your train.py, add this after finding the best model
+best_model = mlflow.sklearn.load_model(f"runs:/{best_run_id}/model")
+# Save the model to a file that will be committed to the repository
+joblib.dump(best_model, "best_model.pkl")

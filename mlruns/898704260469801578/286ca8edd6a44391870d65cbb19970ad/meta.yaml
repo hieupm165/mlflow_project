@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/286ca8edd6a44391870d65cbb19970ad/artifacts
+end_time: 1744429209766
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 286ca8edd6a44391870d65cbb19970ad
+run_name: placid-hen-500
+run_uuid: 286ca8edd6a44391870d65cbb19970ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429207386
+status: 3
+tags: []
+user_id: ADMIN

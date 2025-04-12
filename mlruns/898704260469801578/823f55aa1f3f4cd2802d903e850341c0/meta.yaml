@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/823f55aa1f3f4cd2802d903e850341c0/artifacts
+end_time: 1744429243105
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: 823f55aa1f3f4cd2802d903e850341c0
+run_name: auspicious-stoat-568
+run_uuid: 823f55aa1f3f4cd2802d903e850341c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429240651
+status: 3
+tags: []
+user_id: ADMIN

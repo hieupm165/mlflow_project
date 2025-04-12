@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow_project/mlruns/898704260469801578/af85ea88e6674eba911310ba2696aef8/artifacts
+end_time: 1744429179718
+entry_point_name: ''
+experiment_id: '898704260469801578'
+lifecycle_stage: active
+run_id: af85ea88e6674eba911310ba2696aef8
+run_name: merciful-zebra-76
+run_uuid: af85ea88e6674eba911310ba2696aef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744429177352
+status: 3
+tags: []
+user_id: ADMIN

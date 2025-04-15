@@ -81,7 +81,7 @@ if __name__ == '__main__':
         <!DOCTYPE html>
         <html>
         <head>
-            <title>Classification Model</title>
+            <title>Classification Model Ver1.2</title>
             <style>
                 body { font-family: Arial, sans-serif; margin: 20px; }
                 .container { max-width: 800px; margin: 0 auto; }
